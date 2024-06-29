@@ -18,19 +18,12 @@
 <p align="center">
 Explore my repositories and feel free to connect with me.
 
-<p align="center">
-	<a href="mailto:ana.s.volkmann@gmail.com">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-FFA500?style=flat&logo=Gmail&logoColor=white&link=mailto:ana.s.volkmann@gmail.com" />
-	</a>
-	<span> * </span>
-	<a href="https://www.linkedin.com/in/ana-laura-volkmann-a60b782bb/recent-activity/all//">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-laura-volkmann-a60b782bb/recent-activity/all//" />
-	</a>
-	<span> * </span>
-	<a href="https://profile.intra.42.fr/users/ana-lda-">
- 	 	<img alt="Profile at École 42" src="https://img.shields.io/badge/-ana--lda-006400?style=flat&logoColor=white&link=https://profile.intra.42.fr/ana-lda-" />
-	</a>
-</p>
+<div align="center">
+	<a href='https://profile.intra.42.fr/users/ana-lda-' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'height="28"/></a>
+   <a href = "mailto:ana.s.volkmann@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/ana-laura-volkmann/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+</div>
+	
 
 | [![AnaVolkmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVolkmann&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=gruvbox)](https://github.com/AnaVolkmann?tab=repositories) | [![AnaVolkmann's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVolkmann&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/AnaVolkmann?tab=repositories) |
 |:-:|:-:|
