@@ -34,6 +34,9 @@ Explore my repositories and feel free to connect with me.
 
 | [![AnaVolkmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVolkmann&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/AnaVolkmann?tab=repositories) | [![AnaVolkmann's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVolkmann&layout=compact&hide_border=true&theme=jolly)](https://github.com/AnaVolkmann?tab=repositories) |
 |:-:|:-:|
+| [![AnaVolkmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVolkmann&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/AnaVolkmann?tab=repositories) | [![AnaVolkmann's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVolkmann&layout=compact&hide_border=true&theme=radical)](https://github.com/AnaVolkmann?tab=repositories) |
+|:-:|:-:|
+
 
 ---
 
