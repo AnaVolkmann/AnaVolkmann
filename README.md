@@ -13,9 +13,9 @@
 ## Random Facts
 
 - 🌍 I speak three languages: Portuguese, English, and Spanish.
-- ⛸ I used to be a figure skater.
-- ☕ I have a passion for coffee and have tried it in all 19 countries I have visited, i even have a rating sistem.
-- ✈️ I love traveling and i started my travelling adventures alone at 15 years old.
-- 🧩 I enjoy solving puzzles and playing strategy games in my free time.
-
-Feel free to explore my repositories and projects. My user on Intra and Slack is `ana-lda-`. Let's connect and learn together! 🚀
+- ⛸ I used to be a figure skater in my teenage years.
+- ☕ I have a passion for coffee and maintain a personal rating system for local brews sampled in all 19 countries I've visited.
+- ✈️ Traveling is one of my greatest joys since I embarked on my first solo adventure at the age of 15.
+- 🧩 I enjoy intellectually stimulating games, particularly strategic card games, board games, and billiards.
+- 
+Thank you for visiting my profile! My user on Intra and Slack is `ana-lda-`. Explore my repositories and feel free to connect with me.
