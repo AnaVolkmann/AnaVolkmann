@@ -21,7 +21,7 @@ Explore my repositories and feel free to connect with me.
 <div align="center">
 	<a href='https://profile.intra.42.fr/users/ana-lda-' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'height="28"/></a>
    <a href = "mailto:ana.s.volkmann@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/ana-laura-volkmann/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ana-laura-volkmann-a60b782bb//" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
 </div>
 	
 
