@@ -2,7 +2,7 @@
 
 ### Thanks for visiting, I'm Ana! 😄
 
-🎓 I currently am a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨
+🎓 I am currently a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨
 
 💻 Previously, I studied Nutritional Science before switching to software engineering.
 
