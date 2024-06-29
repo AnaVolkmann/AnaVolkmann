@@ -17,3 +17,5 @@
 - ☕ I have a passion for coffee and have tried it in all 19 countries I have visited, i even have a rating sistem.
 - ✈️ I love traveling and i started my travelling adventures alone at 15 years old.
 - 🧩 I enjoy solving puzzles and playing strategy games in my free time.
+
+Feel free to explore my repositories and projects. My user on Intra and Slack is `ana-lda-`. Let's connect and learn together! 🚀
