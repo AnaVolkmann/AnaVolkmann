@@ -28,6 +28,21 @@ Explore my repositories and feel free to connect with me.
 | [![AnaVolkmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVolkmann&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=gruvbox)](https://github.com/AnaVolkmann?tab=repositories) | [![AnaVolkmann's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVolkmann&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/AnaVolkmann?tab=repositories) |
 |:-:|:-:|
 
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
 
 ---
 
