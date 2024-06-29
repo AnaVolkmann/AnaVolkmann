@@ -1,3 +1,8 @@
+<p align="right">
+	<img alt="appinha's visitors" src="https://komarev.com/ghpvc/?username=appinha&color=8c36db&style=flat&label=visitors" />
+	<img alt="appinha's followers" src="https://img.shields.io/github/followers/appinha?color=blueviolet" />
+	<img alt="appinha's stars" src="https://img.shields.io/github/stars/appinha?color=blueviolet" />
+</p>
 [![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](img/poster_galaxy-2.gif)](https://www.linkedin.com/in/ana-laura-volkmann-a60b782bb/recent-activity/all//)
 
 # Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
