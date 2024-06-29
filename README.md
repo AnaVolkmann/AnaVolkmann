@@ -1,3 +1,4 @@
+### Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 ### Thanks for visiting, I'm Ana! 😄
 
 🎓 Proud _cadet_ (software engineering student) at [42Porto](https://www.42porto.com/) ✨
