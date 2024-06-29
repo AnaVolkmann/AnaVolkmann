@@ -27,6 +27,9 @@ Thank you for visiting my profile! My user on Intra and Slack is `ana-lda-`. Exp
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-laura-volkmann-a60b782bb/recent-activity/all//" />
 	<span> * </span>
 	<a href="https://profile.intra.42.fr/users/ana-lda-">
-  <img alt="Profile at École 42" src="https://img.shields.io/badge/-ana--lda-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/ana-lda-" />
+ 	 <img alt="Profile at École 42" src="https://img.shields.io/badge/-ana--lda-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/ana-lda-" />
 </a>
 </p>
+
+| [![AnaVolkmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVolkmann&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/AnaVolkmann?tab=repositories) | [![AnaVolkmann's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVolkmann&layout=compact&hide_border=true&theme=jolly)](https://github.com/AnaVolkmann?tab=repositories) |
+|:-:|:-:|
