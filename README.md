@@ -1,10 +1,10 @@
 ### Thanks for visiting, I'm Ana! 😄
 
-🎓 I am currently a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨
+🎓 Proud _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨
 
-💻 Previously, I studied Nutritional Science before switching to software engineering.
+🍎 Previously Academic in Nutritional Science before diving into software engineering.
 
-🚀 I’m presently working on one of the 42 projects, called Push Swap, wich you check out [here](https://github.com/AnaVolkmann/42_PUSH_SWAP).
+🚀 Currently working on one of the 42 projects, called Push Swap, which you can check out [here](https://github.com/AnaVolkmann/42_PUSH_SWAP).
 
 🌱 Made in Brasil!
 
