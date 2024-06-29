@@ -6,7 +6,7 @@
 
 💻 Previously, I studied Nutritional Science before switching to software engineering.
 
-🚀 I’m currently working on one of the 42 projects, called Push Swap, you can check out my progress so far here:git@github.com:AnaVolkmann/42_PUSH_SWAP.git!
+🚀 I’m currently working on one of the 42 projects, called Push Swap, wich you check out [here](https://github.com/AnaVolkmann/42_PUSH_SWAP).
 
 🌱 Made in Brasil!
 
