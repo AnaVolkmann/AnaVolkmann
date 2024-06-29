@@ -29,7 +29,5 @@ Thank you for visiting my profile! My user on Intra and Slack is `ana-lda-`. Exp
   <img alt="Profile at École 42" src="https://img.shields.io/badge/-ana--lda-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/ana-lda-" />
 </a>
 <span> * </span>
-<a href="https://profile.intra.42.fr/ana-lda-">
-  <img alt="Profile at École 42" src="https://img.shields.io/badge/-ana--lda-ff69b4?style=flat&logoColor=white" />
 </a>
 </p>
