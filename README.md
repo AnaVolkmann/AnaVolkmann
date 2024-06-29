@@ -1,6 +1,6 @@
 ### Thanks for visiting, I'm Ana! 😄
 
-🎓 Proud _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨
+🎓 Proud _cadet_ (software engineering student) at [42Porto](https://www.42porto.com/) ✨
 
 🍎 Previously Academic in Nutritional Science before diving into software engineering.
 
