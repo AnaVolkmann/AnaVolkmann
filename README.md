@@ -1,3 +1,5 @@
+[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](img/poster_galaxy-2.gif)](https://www.linkedin.com/in/ana-laura-volkmann-a60b782bb/recent-activity/all//)
+
 # Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 
 ### Thanks for visiting, I'm Ana! 😄
