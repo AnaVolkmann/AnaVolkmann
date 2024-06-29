@@ -3,7 +3,7 @@
 
 🎓 Proud _cadet_ (software engineering student) at [42Porto](https://www.42porto.com/) ✨
 
-🍎 Previously Academic in Nutritional Science before diving into software engineering.
+🍎 Academic in Nutritional Science before diving into software engineering.
 
 🚀 Currently working on one of the 42 projects, called Push Swap, which you can check out [here](https://github.com/AnaVolkmann/42_PUSH_SWAP).
 
@@ -12,9 +12,8 @@
 ## Random Facts
 
 - 🌍 I speak three languages: Portuguese, English, and Spanish.
-- ⛸ I used to be a figure skater in my teenage years.
-- ☕ I have a passion for coffee and maintain a personal rating system for local brews sampled in all 19 countries I've visited.
-- ✈️ Traveling is one of my greatest joys since I embarked on my first solo adventure at the age of 15.
+- ☕ I have a passion for coffee and I have tried local brews from all 19 countries I've visited.
+- ✈️ Traveling is one of my greatest joys since I embarked on my first solo adventure when i was 15.
 - 🧩 I enjoy intellectually stimulating games, particularly strategic card games, board games, and billiards.
 <p align="center">
 Explore my repositories and feel free to connect with me.
