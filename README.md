@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 
-### Thanks for visiting, I'm ana! 😄
+### Thanks for visiting, I'm Ana! 😄
 
 🎓 I currently am a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨
 
