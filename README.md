@@ -9,6 +9,8 @@
 
 <hr style="width: 80%; margin-top: 20px; margin-bottom: 20px; border-color: #ccc;">
 
+### About Me
+
 🎓 Proud _cadet_ (software engineering student) at [42Porto](https://www.42porto.com/) ✨
 
 📚 Academic in Nutritional Science before diving into software engineering.
@@ -22,7 +24,7 @@
 -  ☕ &emsp; I have a passion for coffee and I have tried local brews from all 19 countries I've visited.
 -  🗺️ &emsp; Traveling is one of my greatest joys since I embarked on my first solo adventure when i was 15.
 - 🎮 &emsp; I enjoy intellectually stimulating games, particularly strategic card games, board games, and billiards
-
+---
 <div align="center">
   <h3><b>Explore my repositories and feel free to connect with me.</b></h3>
 	
