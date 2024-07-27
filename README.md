@@ -29,7 +29,7 @@
   <h3><b>Explore my repositories and feel free to connect with me.</b></h3>
 	
 	
-[![LIBFT](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/libftn.png)](https://github.com/AnaVolkmann/42_LIBFT) [![FT_PRINTF](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/ft_printfn.png)](https://github.com/AnaVolkmann/42_FT_PRINTF)  [![GET_NEXT_LINE](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/get_next_linen.png)](https://github.com/AnaVolkmann/42_GET_NEXT_LINE) [![PUSH_SWAP](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/push_swapn.png)](https://github.com/AnaVolkmann/42_PUSH_SWAP)
+[![LIBFT](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/libftn.png)](https://github.com/AnaVolkmann/42_LIBFT) [![FT_PRINTF](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/ft_printfn.png)](https://github.com/AnaVolkmann/42_FT_PRINTF)  [![GET_NEXT_LINE](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/get_next_linen.png)](https://github.com/AnaVolkmann/42_GET_NEXT_LINE) [![PUSH_SWAP](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/push_swapn.png)](https://github.com/AnaVolkmann/42_PUSH_SWAP)
 	
 ---
 
