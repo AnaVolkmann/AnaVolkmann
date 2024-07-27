@@ -28,6 +28,11 @@
 <div align="center">
   <h3><b>Explore my repositories and feel free to connect with me.</b></h3>
 	
+	
+[![LIBFT](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/libftn.png)](https://github.com/AnaVolkmann/42_LIBFT) [![FT_PRINTF](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/ft_printfn.png)](https://github.com/AnaVolkmann/42_FT_PRINTF)  [![GET_NEXT_LINE](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/get_next_linen.png)](https://github.com/AnaVolkmann/42_GET_NEXT_LINE) [![PUSH_SWAP](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/push_swapn.png)](https://github.com/AnaVolkmann/42_PUSH_SWAP)
+	
+---
+
 <div align="center">
 	<a href='https://profile.intra.42.fr/users/ana-lda-' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'height="28"/></a>
    <a href = "mailto:ana.s.volkmann@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
