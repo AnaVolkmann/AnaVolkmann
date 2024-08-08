@@ -15,7 +15,7 @@
 
 📚 Academic in Nutritional Science before diving into software engineering.
 
-💡 Currently working on one of the 42 projects, called Push Swap, which you can check out [here](https://github.com/AnaVolkmann/42_PUSH_SWAP).
+💡 Currently working on one of the 42 projects, called FRACTOL, which you can check out [here](https://github.com/AnaVolkmann/42_FRACTOL)
 
 🌱 Made in Brasil!
 
