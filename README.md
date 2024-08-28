@@ -11,7 +11,7 @@
 
 ### About Me
 
-🎓 Proud _cadet_ (software engineering student) at [42Porto](https://www.42porto.com/) ✨
+🎓  _Cadet_ (software engineering student) at [42Porto](https://www.42porto.com/) ✨
 
 📚 Academic in Nutritional Science before diving into software engineering.
 
@@ -29,7 +29,7 @@
   <h3><b>Explore my repositories and feel free to connect with me.</b></h3>
 	
 	
-[![LIBFT](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/libftn.png)](https://github.com/AnaVolkmann/42_LIBFT) [![FT_PRINTF](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/ft_printfn.png)](https://github.com/AnaVolkmann/42_FT_PRINTF)  [![GET_NEXT_LINE](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/get_next_linen.png)](https://github.com/AnaVolkmann/42_GET_NEXT_LINE) [![PUSH_SWAP](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/push_swapn.png)](https://github.com/AnaVolkmann/42_PUSH_SWAP)
+[![LIBFT](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/libftm.png)](https://github.com/AnaVolkmann/42_LIBFT) [![FT_PRINTF](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/ft_printfn.png)](https://github.com/AnaVolkmann/42_FT_PRINTF)  [![GET_NEXT_LINE](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/get_next_linem.png)](https://github.com/AnaVolkmann/42_GET_NEXT_LINE) ![BORN2BEROOT](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/born2beroote.png) [![PUSH_SWAP](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/push_swapm.png)](https://github.com/AnaVolkmann/42_PUSH_SWAP) [![FRACTOL](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/fract-olm.png)](https://github.com/AnaVolkmann/42_FRACTOL) [![PIPEX](https://github.com/AnaVolkmann/42_project_badges/blob/main/badges/pipexe.png)](https://github.com/AnaVolkmann/42_PIPEX)
 	
 ---
 
