@@ -15,7 +15,7 @@
 
 📚 Academic in Nutritional Science before diving into software engineering.
 
-💡 Currently working on one of the 42 projects, called ![_PHILOSOPHERS_](https://github.com/AnaVolkmann/42_PHILO)
+💡 Currently working on one of the 42 projects, called <span style="color: purple;">![_PHILOSOPHERS_](https://github.com/AnaVolkmann/42_PHILO)</span>
 
 🌱 Made in Brasil!
 
