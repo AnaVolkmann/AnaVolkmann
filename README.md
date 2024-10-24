@@ -21,7 +21,6 @@
 
 ### Random Facts
 -  🌎 &emsp; I speak three languages: Portuguese, English, and Spanish.
--  ☕ &emsp; I have a passion for coffee and I have tried local brews from all 19 countries I've visited.
 -  🗺️ &emsp; Traveling is one of my greatest joys since I embarked on my first solo adventure when i was 15.
 - 🎮 &emsp; I enjoy intellectually stimulating games, particularly strategic card games, board games, and billiards.
 ---
