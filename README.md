@@ -15,7 +15,7 @@
 
 📚 Academic in Nutritional Science before diving into software engineering.
 
-💡 Currently working on one of the 42 projects, called ![_PIPEX_](https://github.com/AnaVolkmann/42_PIPEX)
+💡 Currently working on one of the 42 projects, called ![_PHILOSOPHERS_](https://github.com/AnaVolkmann/42_PHILO)
 
 🌱 Made in Brasil!
 
