@@ -15,7 +15,7 @@
 
 📚 Academic in Nutritional Science before diving into software engineering.
 
-💡 Currently working on one of the 42 projects, called <span style="color: purple;">![_CUB_3D_](https://github.com/AnaVolkmann/42_Cub3D)</span>
+💡 Currently working on one of the 42 projects <span style="color: purple;">![_CUB_3D_](https://github.com/AnaVolkmann/42_Cub3D)</span>
 
 🌱 Made in Brasil!
 
