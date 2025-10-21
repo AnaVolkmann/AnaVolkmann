@@ -19,10 +19,6 @@
 
 🌱 Made in Brasil! 🇧🇷 
 
-### Random Facts
--  🌎 &emsp; I speak three languages: Portuguese, English, and Spanish.
--  🗺️ &emsp; Traveling is one of my greatest joys since I embarked on my first solo adventure when i was 15.
-- 🎮 &emsp; I enjoy intellectually stimulating games, particularly strategic card games, board games, and billiards.
 ---
 <div align="center">
   <h3><b>Explore my repositories and feel free to connect with me.</b></h3>
