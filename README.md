@@ -11,13 +11,13 @@
 
 ### About Me
 
-🎓  _Cadet_ (software engineering student) at [42Porto](https://www.42porto.com/) ✨
+🎓 _Cadet_ (software engineering student) at [42Porto](https://www.42porto.com/) ✨  
 
-📚 Academic in Nutritional Science before diving into software engineering.
+📚 Academic in Nutritional Science before diving into software engineering.  
 
-💡 Currently working on one of the 42 projects <span style="color: purple;">![FT_IRC]((https://github.com/AnaVolkmann/IRC))</span>
+💡 Currently working on one of the 42 projects [FT_IRC](https://github.com/AnaVolkmann/IRC)  
 
-🌱 Made in Brasil!
+🌱 Made in Brasil! 🇧🇷 
 
 ### Random Facts
 -  🌎 &emsp; I speak three languages: Portuguese, English, and Spanish.
