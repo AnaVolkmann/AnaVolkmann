@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=180&section=header&text=Ana%20Volkmann&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%2042Porto%20%C2%B7%20Project%20Manager&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2000&color=FF9A5C&center=true&vCenter=true&width=500&lines=Software+Engineering+student+%40+42Porto;C+%26+C%2B%2B+%C2%B7+Systems+Programming+%C2%B7+Linux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2000&color=FF9A5C&center=true&vCenter=true&width=500&lines=Software+Engineering+%40+42Porto;C+%26+C%2B%2B+%C2%B7+Systems+Programming+%C2%B7+Linux)](https://git.io/typing-svg)
 
 <br/>
 
