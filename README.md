@@ -1,18 +1,14 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=170&section=header&text=Ana%20Volkmann&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%2042Porto&descSize=17" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=2200&color=FF9A5C&center=true&vCenter=true&width=540&lines=From+Science+to+Software;C+%26+C%2B%2B+today+TypeScript+%26+React)](https://git.io/typing-svg)
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=150&section=header&text=Ana%20Volkmann&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=2200&color=FF9A5C&center=true&vCenter=true&width=540&lines=Software+Engineering+%40+42Porto;C+%26+C%2B%2B+%C2%B7+Systems+Programming" alt="Typing SVG"/></a>
+ 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-laura-volkmann-a60b782bb/)
-[![Gmail](https://img.shields.io/badge/Email-ff9a5c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.s.volkmann@gmail.com)
-[![42Porto](https://img.shields.io/badge/42%20Porto-ffb347?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/ana-lda-)
-
+<a href="https://www.linkedin.com/in/ana-laura-volkmann-a60b782bb/"><img src="https://img.shields.io/badge/LinkedIn-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ana.s.volkmann@gmail.com"><img src="https://img.shields.io/badge/Email-ff9a5c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://profile.intra.42.fr/users/ana-lda-"><img src="https://img.shields.io/badge/42%20Porto-ffb347?style=for-the-badge&logo=42&logoColor=white" alt="42Porto"/></a>
+ 
 </div>
-
----
 
 ### Hey, I'm Ana 👋
 
