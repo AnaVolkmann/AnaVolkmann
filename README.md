@@ -16,16 +16,13 @@ Made in Brasil. I started out in Science, got curious about how software actuall
 
 ---
 
-### 🛠 What I work with
+### What I work with
 
-**Now**
 ![React](https://img.shields.io/badge/React-ff6b6b?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ff9a5c?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-ffb347?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff6b6b?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-ff9a5c?style=for-the-badge&logo=docker&logoColor=white)
-
-**Where I learned it the hard way**
 ![C](https://img.shields.io/badge/C-ffb347?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-ff6b6b?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-ff9a5c?style=for-the-badge&logo=linux&logoColor=white)
