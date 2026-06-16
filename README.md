@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=180&section=header&text=Ana%20Volkmann&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%2042Porto%20%C2%B7%20Project%20Manager&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=180&section=header&text=Ana%20Volkmann&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%2042Porto%20%C2%B7%20Engineering%20Delivery&descAlignY=58&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2000&color=FF9A5C&center=true&vCenter=true&width=500&lines=Software+Engineering+%40+42Porto;C+%26+C%2B%2B+%C2%B7+Systems+Programming+%C2%B7+Linux)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 
 ### About
 
-From a Bachelor of Science to low-level systems programming, I found my way to software through curiosity and stayed for the craft. I'm currently working through the 42Porto common core while managing delivery across engineering teams. I like being the person who understands both the code and the people building it.
+From a Bachelor of Science to low-level systems programming, I found my way to software through curiosity and stayed for the craft. I'm currently working through the 42Porto common core while coordinating engineering work across teams. I like being the person who understands both the code and the people building it, someone who can move between the technical detail and the bigger picture without losing either.
 
 ---
 
@@ -31,7 +31,7 @@ From a Bachelor of Science to low-level systems programming, I found my way to s
 ![Bash](https://img.shields.io/badge/Bash-ff6b6b?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-ff9a5c?style=for-the-badge&logo=git&logoColor=white)
 
-**Project Management**
+**Delivery & Tooling**
 
 ![Jira](https://img.shields.io/badge/Jira-ffb347?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-ff6b6b?style=for-the-badge&logo=confluence&logoColor=white)
